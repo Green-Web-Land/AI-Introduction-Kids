@@ -12,4 +12,4 @@ Our purpose is to help children grow in knowledge, confidence and judgment. Chil
 
 All nine lessons are ready in the curriculum, including Imagine your future and Fair rules for AI. Use the [glossary](GLOSSARY.md) for unfamiliar words. This is AI-assisted educational writing, reviewed by its author; it has not been tested with children. See [sources](SOURCES.md), the [reuse licence](LICENSE.md) and [developer guide](DEVELOPER-GUIDE.md).
 
-The private review repository is AI-Introduction-Kids-review. AI-Introduction-Kids is the separate public destination; lesson publication follows owner review and the designated education legal decision.
+This course is also available in the [AI Introduction course library](https://github.com/Green-Web-Land/AI-Introduction/tree/main/courses/kids), alongside courses for other ages and everyday situations.
